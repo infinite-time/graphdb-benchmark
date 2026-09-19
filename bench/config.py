@@ -20,7 +20,7 @@ class Neo4jConfig:
     # Bolt URI. For a local Docker container this is the default below.
     uri: str = _env("NEO4J_URI", "bolt://localhost:7687")
     user: str = _env("NEO4J_USER", "neo4j")
-    password: str = _env("NEO4J_PASSWORD", "testpassword")
+    password: str = _env("NEO4J_PASSWORD", "")
     database: str = _env("NEO4J_DATABASE", "neo4j")
 
 
