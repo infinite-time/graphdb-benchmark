@@ -1,0 +1,601 @@
+reportId,name
+R0,FRTB-SA Capital #0
+R1,FRTB-IMA Capital #1
+R2,Basel III LCR #2
+R3,Basel III NSFR #3
+R4,CCAR Submission #4
+R5,Volcker Metrics #5
+R6,MiFID II Transaction Report #6
+R7,EMIR Trade Report #7
+R8,Liquidity Coverage #8
+R9,VaR Backtest #9
+R10,Counterparty Credit Exposure #10
+R11,Leverage Ratio #11
+R12,FRTB-SA Capital #12
+R13,FRTB-IMA Capital #13
+R14,Basel III LCR #14
+R15,Basel III NSFR #15
+R16,CCAR Submission #16
+R17,Volcker Metrics #17
+R18,MiFID II Transaction Report #18
+R19,EMIR Trade Report #19
+R20,Liquidity Coverage #20
+R21,VaR Backtest #21
+R22,Counterparty Credit Exposure #22
+R23,Leverage Ratio #23
+R24,FRTB-SA Capital #24
+R25,FRTB-IMA Capital #25
+R26,Basel III LCR #26
+R27,Basel III NSFR #27
+R28,CCAR Submission #28
+R29,Volcker Metrics #29
+R30,MiFID II Transaction Report #30
+R31,EMIR Trade Report #31
+R32,Liquidity Coverage #32
+R33,VaR Backtest #33
+R34,Counterparty Credit Exposure #34
+R35,Leverage Ratio #35
+R36,FRTB-SA Capital #36
+R37,FRTB-IMA Capital #37
+R38,Basel III LCR #38
+R39,Basel III NSFR #39
+R40,CCAR Submission #40
+R41,Volcker Metrics #41
+R42,MiFID II Transaction Report #42
+R43,EMIR Trade Report #43
+R44,Liquidity Coverage #44
+R45,VaR Backtest #45
+R46,Counterparty Credit Exposure #46
+R47,Leverage Ratio #47
+R48,FRTB-SA Capital #48
+R49,FRTB-IMA Capital #49
+R50,Basel III LCR #50
+R51,Basel III NSFR #51
+R52,CCAR Submission #52
+R53,Volcker Metrics #53
+R54,MiFID II Transaction Report #54
+R55,EMIR Trade Report #55
+R56,Liquidity Coverage #56
+R57,VaR Backtest #57
+R58,Counterparty Credit Exposure #58
+R59,Leverage Ratio #59
+R60,FRTB-SA Capital #60
+R61,FRTB-IMA Capital #61
+R62,Basel III LCR #62
+R63,Basel III NSFR #63
+R64,CCAR Submission #64
+R65,Volcker Metrics #65
+R66,MiFID II Transaction Report #66
+R67,EMIR Trade Report #67
+R68,Liquidity Coverage #68
+R69,VaR Backtest #69
+R70,Counterparty Credit Exposure #70
+R71,Leverage Ratio #71
+R72,FRTB-SA Capital #72
+R73,FRTB-IMA Capital #73
+R74,Basel III LCR #74
+R75,Basel III NSFR #75
+R76,CCAR Submission #76
+R77,Volcker Metrics #77
+R78,MiFID II Transaction Report #78
+R79,EMIR Trade Report #79
+R80,Liquidity Coverage #80
+R81,VaR Backtest #81
+R82,Counterparty Credit Exposure #82
+R83,Leverage Ratio #83
+R84,FRTB-SA Capital #84
+R85,FRTB-IMA Capital #85
+R86,Basel III LCR #86
+R87,Basel III NSFR #87
+R88,CCAR Submission #88
+R89,Volcker Metrics #89
+R90,MiFID II Transaction Report #90
+R91,EMIR Trade Report #91
+R92,Liquidity Coverage #92
+R93,VaR Backtest #93
+R94,Counterparty Credit Exposure #94
+R95,Leverage Ratio #95
+R96,FRTB-SA Capital #96
+R97,FRTB-IMA Capital #97
+R98,Basel III LCR #98
+R99,Basel III NSFR #99
+R100,CCAR Submission #100
+R101,Volcker Metrics #101
+R102,MiFID II Transaction Report #102
+R103,EMIR Trade Report #103
+R104,Liquidity Coverage #104
+R105,VaR Backtest #105
+R106,Counterparty Credit Exposure #106
+R107,Leverage Ratio #107
+R108,FRTB-SA Capital #108
+R109,FRTB-IMA Capital #109
+R110,Basel III LCR #110
+R111,Basel III NSFR #111
+R112,CCAR Submission #112
+R113,Volcker Metrics #113
+R114,MiFID II Transaction Report #114
+R115,EMIR Trade Report #115
+R116,Liquidity Coverage #116
+R117,VaR Backtest #117
+R118,Counterparty Credit Exposure #118
+R119,Leverage Ratio #119
+R120,FRTB-SA Capital #120
+R121,FRTB-IMA Capital #121
+R122,Basel III LCR #122
+R123,Basel III NSFR #123
+R124,CCAR Submission #124
+R125,Volcker Metrics #125
+R126,MiFID II Transaction Report #126
+R127,EMIR Trade Report #127
+R128,Liquidity Coverage #128
+R129,VaR Backtest #129
+R130,Counterparty Credit Exposure #130
+R131,Leverage Ratio #131
+R132,FRTB-SA Capital #132
+R133,FRTB-IMA Capital #133
+R134,Basel III LCR #134
+R135,Basel III NSFR #135
+R136,CCAR Submission #136
+R137,Volcker Metrics #137
+R138,MiFID II Transaction Report #138
+R139,EMIR Trade Report #139
+R140,Liquidity Coverage #140
+R141,VaR Backtest #141
+R142,Counterparty Credit Exposure #142
+R143,Leverage Ratio #143
+R144,FRTB-SA Capital #144
+R145,FRTB-IMA Capital #145
+R146,Basel III LCR #146
+R147,Basel III NSFR #147
+R148,CCAR Submission #148
+R149,Volcker Metrics #149
+R150,MiFID II Transaction Report #150
+R151,EMIR Trade Report #151
+R152,Liquidity Coverage #152
+R153,VaR Backtest #153
+R154,Counterparty Credit Exposure #154
+R155,Leverage Ratio #155
+R156,FRTB-SA Capital #156
+R157,FRTB-IMA Capital #157
+R158,Basel III LCR #158
+R159,Basel III NSFR #159
+R160,CCAR Submission #160
+R161,Volcker Metrics #161
+R162,MiFID II Transaction Report #162
+R163,EMIR Trade Report #163
+R164,Liquidity Coverage #164
+R165,VaR Backtest #165
+R166,Counterparty Credit Exposure #166
+R167,Leverage Ratio #167
+R168,FRTB-SA Capital #168
+R169,FRTB-IMA Capital #169
+R170,Basel III LCR #170
+R171,Basel III NSFR #171
+R172,CCAR Submission #172
+R173,Volcker Metrics #173
+R174,MiFID II Transaction Report #174
+R175,EMIR Trade Report #175
+R176,Liquidity Coverage #176
+R177,VaR Backtest #177
+R178,Counterparty Credit Exposure #178
+R179,Leverage Ratio #179
+R180,FRTB-SA Capital #180
+R181,FRTB-IMA Capital #181
+R182,Basel III LCR #182
+R183,Basel III NSFR #183
+R184,CCAR Submission #184
+R185,Volcker Metrics #185
+R186,MiFID II Transaction Report #186
+R187,EMIR Trade Report #187
+R188,Liquidity Coverage #188
+R189,VaR Backtest #189
+R190,Counterparty Credit Exposure #190
+R191,Leverage Ratio #191
+R192,FRTB-SA Capital #192
+R193,FRTB-IMA Capital #193
+R194,Basel III LCR #194
+R195,Basel III NSFR #195
+R196,CCAR Submission #196
+R197,Volcker Metrics #197
+R198,MiFID II Transaction Report #198
+R199,EMIR Trade Report #199
+R200,Liquidity Coverage #200
+R201,VaR Backtest #201
+R202,Counterparty Credit Exposure #202
+R203,Leverage Ratio #203
+R204,FRTB-SA Capital #204
+R205,FRTB-IMA Capital #205
+R206,Basel III LCR #206
+R207,Basel III NSFR #207
+R208,CCAR Submission #208
+R209,Volcker Metrics #209
+R210,MiFID II Transaction Report #210
+R211,EMIR Trade Report #211
+R212,Liquidity Coverage #212
+R213,VaR Backtest #213
+R214,Counterparty Credit Exposure #214
+R215,Leverage Ratio #215
+R216,FRTB-SA Capital #216
+R217,FRTB-IMA Capital #217
+R218,Basel III LCR #218
+R219,Basel III NSFR #219
+R220,CCAR Submission #220
+R221,Volcker Metrics #221
+R222,MiFID II Transaction Report #222
+R223,EMIR Trade Report #223
+R224,Liquidity Coverage #224
+R225,VaR Backtest #225
+R226,Counterparty Credit Exposure #226
+R227,Leverage Ratio #227
+R228,FRTB-SA Capital #228
+R229,FRTB-IMA Capital #229
+R230,Basel III LCR #230
+R231,Basel III NSFR #231
+R232,CCAR Submission #232
+R233,Volcker Metrics #233
+R234,MiFID II Transaction Report #234
+R235,EMIR Trade Report #235
+R236,Liquidity Coverage #236
+R237,VaR Backtest #237
+R238,Counterparty Credit Exposure #238
+R239,Leverage Ratio #239
+R240,FRTB-SA Capital #240
+R241,FRTB-IMA Capital #241
+R242,Basel III LCR #242
+R243,Basel III NSFR #243
+R244,CCAR Submission #244
+R245,Volcker Metrics #245
+R246,MiFID II Transaction Report #246
+R247,EMIR Trade Report #247
+R248,Liquidity Coverage #248
+R249,VaR Backtest #249
+R250,Counterparty Credit Exposure #250
+R251,Leverage Ratio #251
+R252,FRTB-SA Capital #252
+R253,FRTB-IMA Capital #253
+R254,Basel III LCR #254
+R255,Basel III NSFR #255
+R256,CCAR Submission #256
+R257,Volcker Metrics #257
+R258,MiFID II Transaction Report #258
+R259,EMIR Trade Report #259
+R260,Liquidity Coverage #260
+R261,VaR Backtest #261
+R262,Counterparty Credit Exposure #262
+R263,Leverage Ratio #263
+R264,FRTB-SA Capital #264
+R265,FRTB-IMA Capital #265
+R266,Basel III LCR #266
+R267,Basel III NSFR #267
+R268,CCAR Submission #268
+R269,Volcker Metrics #269
+R270,MiFID II Transaction Report #270
+R271,EMIR Trade Report #271
+R272,Liquidity Coverage #272
+R273,VaR Backtest #273
+R274,Counterparty Credit Exposure #274
+R275,Leverage Ratio #275
+R276,FRTB-SA Capital #276
+R277,FRTB-IMA Capital #277
+R278,Basel III LCR #278
+R279,Basel III NSFR #279
+R280,CCAR Submission #280
+R281,Volcker Metrics #281
+R282,MiFID II Transaction Report #282
+R283,EMIR Trade Report #283
+R284,Liquidity Coverage #284
+R285,VaR Backtest #285
+R286,Counterparty Credit Exposure #286
+R287,Leverage Ratio #287
+R288,FRTB-SA Capital #288
+R289,FRTB-IMA Capital #289
+R290,Basel III LCR #290
+R291,Basel III NSFR #291
+R292,CCAR Submission #292
+R293,Volcker Metrics #293
+R294,MiFID II Transaction Report #294
+R295,EMIR Trade Report #295
+R296,Liquidity Coverage #296
+R297,VaR Backtest #297
+R298,Counterparty Credit Exposure #298
+R299,Leverage Ratio #299
+R300,FRTB-SA Capital #300
+R301,FRTB-IMA Capital #301
+R302,Basel III LCR #302
+R303,Basel III NSFR #303
+R304,CCAR Submission #304
+R305,Volcker Metrics #305
+R306,MiFID II Transaction Report #306
+R307,EMIR Trade Report #307
+R308,Liquidity Coverage #308
+R309,VaR Backtest #309
+R310,Counterparty Credit Exposure #310
+R311,Leverage Ratio #311
+R312,FRTB-SA Capital #312
+R313,FRTB-IMA Capital #313
+R314,Basel III LCR #314
+R315,Basel III NSFR #315
+R316,CCAR Submission #316
+R317,Volcker Metrics #317
+R318,MiFID II Transaction Report #318
+R319,EMIR Trade Report #319
+R320,Liquidity Coverage #320
+R321,VaR Backtest #321
+R322,Counterparty Credit Exposure #322
+R323,Leverage Ratio #323
+R324,FRTB-SA Capital #324
+R325,FRTB-IMA Capital #325
+R326,Basel III LCR #326
+R327,Basel III NSFR #327
+R328,CCAR Submission #328
+R329,Volcker Metrics #329
+R330,MiFID II Transaction Report #330
+R331,EMIR Trade Report #331
+R332,Liquidity Coverage #332
+R333,VaR Backtest #333
+R334,Counterparty Credit Exposure #334
+R335,Leverage Ratio #335
+R336,FRTB-SA Capital #336
+R337,FRTB-IMA Capital #337
+R338,Basel III LCR #338
+R339,Basel III NSFR #339
+R340,CCAR Submission #340
+R341,Volcker Metrics #341
+R342,MiFID II Transaction Report #342
+R343,EMIR Trade Report #343
+R344,Liquidity Coverage #344
+R345,VaR Backtest #345
+R346,Counterparty Credit Exposure #346
+R347,Leverage Ratio #347
+R348,FRTB-SA Capital #348
+R349,FRTB-IMA Capital #349
+R350,Basel III LCR #350
+R351,Basel III NSFR #351
+R352,CCAR Submission #352
+R353,Volcker Metrics #353
+R354,MiFID II Transaction Report #354
+R355,EMIR Trade Report #355
+R356,Liquidity Coverage #356
+R357,VaR Backtest #357
+R358,Counterparty Credit Exposure #358
+R359,Leverage Ratio #359
+R360,FRTB-SA Capital #360
+R361,FRTB-IMA Capital #361
+R362,Basel III LCR #362
+R363,Basel III NSFR #363
+R364,CCAR Submission #364
+R365,Volcker Metrics #365
+R366,MiFID II Transaction Report #366
+R367,EMIR Trade Report #367
+R368,Liquidity Coverage #368
+R369,VaR Backtest #369
+R370,Counterparty Credit Exposure #370
+R371,Leverage Ratio #371
+R372,FRTB-SA Capital #372
+R373,FRTB-IMA Capital #373
+R374,Basel III LCR #374
+R375,Basel III NSFR #375
+R376,CCAR Submission #376
+R377,Volcker Metrics #377
+R378,MiFID II Transaction Report #378
+R379,EMIR Trade Report #379
+R380,Liquidity Coverage #380
+R381,VaR Backtest #381
+R382,Counterparty Credit Exposure #382
+R383,Leverage Ratio #383
+R384,FRTB-SA Capital #384
+R385,FRTB-IMA Capital #385
+R386,Basel III LCR #386
+R387,Basel III NSFR #387
+R388,CCAR Submission #388
+R389,Volcker Metrics #389
+R390,MiFID II Transaction Report #390
+R391,EMIR Trade Report #391
+R392,Liquidity Coverage #392
+R393,VaR Backtest #393
+R394,Counterparty Credit Exposure #394
+R395,Leverage Ratio #395
+R396,FRTB-SA Capital #396
+R397,FRTB-IMA Capital #397
+R398,Basel III LCR #398
+R399,Basel III NSFR #399
+R400,CCAR Submission #400
+R401,Volcker Metrics #401
+R402,MiFID II Transaction Report #402
+R403,EMIR Trade Report #403
+R404,Liquidity Coverage #404
+R405,VaR Backtest #405
+R406,Counterparty Credit Exposure #406
+R407,Leverage Ratio #407
+R408,FRTB-SA Capital #408
+R409,FRTB-IMA Capital #409
+R410,Basel III LCR #410
+R411,Basel III NSFR #411
+R412,CCAR Submission #412
+R413,Volcker Metrics #413
+R414,MiFID II Transaction Report #414
+R415,EMIR Trade Report #415
+R416,Liquidity Coverage #416
+R417,VaR Backtest #417
+R418,Counterparty Credit Exposure #418
+R419,Leverage Ratio #419
+R420,FRTB-SA Capital #420
+R421,FRTB-IMA Capital #421
+R422,Basel III LCR #422
+R423,Basel III NSFR #423
+R424,CCAR Submission #424
+R425,Volcker Metrics #425
+R426,MiFID II Transaction Report #426
+R427,EMIR Trade Report #427
+R428,Liquidity Coverage #428
+R429,VaR Backtest #429
+R430,Counterparty Credit Exposure #430
+R431,Leverage Ratio #431
+R432,FRTB-SA Capital #432
+R433,FRTB-IMA Capital #433
+R434,Basel III LCR #434
+R435,Basel III NSFR #435
+R436,CCAR Submission #436
+R437,Volcker Metrics #437
+R438,MiFID II Transaction Report #438
+R439,EMIR Trade Report #439
+R440,Liquidity Coverage #440
+R441,VaR Backtest #441
+R442,Counterparty Credit Exposure #442
+R443,Leverage Ratio #443
+R444,FRTB-SA Capital #444
+R445,FRTB-IMA Capital #445
+R446,Basel III LCR #446
+R447,Basel III NSFR #447
+R448,CCAR Submission #448
+R449,Volcker Metrics #449
+R450,MiFID II Transaction Report #450
+R451,EMIR Trade Report #451
+R452,Liquidity Coverage #452
+R453,VaR Backtest #453
+R454,Counterparty Credit Exposure #454
+R455,Leverage Ratio #455
+R456,FRTB-SA Capital #456
+R457,FRTB-IMA Capital #457
+R458,Basel III LCR #458
+R459,Basel III NSFR #459
+R460,CCAR Submission #460
+R461,Volcker Metrics #461
+R462,MiFID II Transaction Report #462
+R463,EMIR Trade Report #463
+R464,Liquidity Coverage #464
+R465,VaR Backtest #465
+R466,Counterparty Credit Exposure #466
+R467,Leverage Ratio #467
+R468,FRTB-SA Capital #468
+R469,FRTB-IMA Capital #469
+R470,Basel III LCR #470
+R471,Basel III NSFR #471
+R472,CCAR Submission #472
+R473,Volcker Metrics #473
+R474,MiFID II Transaction Report #474
+R475,EMIR Trade Report #475
+R476,Liquidity Coverage #476
+R477,VaR Backtest #477
+R478,Counterparty Credit Exposure #478
+R479,Leverage Ratio #479
+R480,FRTB-SA Capital #480
+R481,FRTB-IMA Capital #481
+R482,Basel III LCR #482
+R483,Basel III NSFR #483
+R484,CCAR Submission #484
+R485,Volcker Metrics #485
+R486,MiFID II Transaction Report #486
+R487,EMIR Trade Report #487
+R488,Liquidity Coverage #488
+R489,VaR Backtest #489
+R490,Counterparty Credit Exposure #490
+R491,Leverage Ratio #491
+R492,FRTB-SA Capital #492
+R493,FRTB-IMA Capital #493
+R494,Basel III LCR #494
+R495,Basel III NSFR #495
+R496,CCAR Submission #496
+R497,Volcker Metrics #497
+R498,MiFID II Transaction Report #498
+R499,EMIR Trade Report #499
+R500,Liquidity Coverage #500
+R501,VaR Backtest #501
+R502,Counterparty Credit Exposure #502
+R503,Leverage Ratio #503
+R504,FRTB-SA Capital #504
+R505,FRTB-IMA Capital #505
+R506,Basel III LCR #506
+R507,Basel III NSFR #507
+R508,CCAR Submission #508
+R509,Volcker Metrics #509
+R510,MiFID II Transaction Report #510
+R511,EMIR Trade Report #511
+R512,Liquidity Coverage #512
+R513,VaR Backtest #513
+R514,Counterparty Credit Exposure #514
+R515,Leverage Ratio #515
+R516,FRTB-SA Capital #516
+R517,FRTB-IMA Capital #517
+R518,Basel III LCR #518
+R519,Basel III NSFR #519
+R520,CCAR Submission #520
+R521,Volcker Metrics #521
+R522,MiFID II Transaction Report #522
+R523,EMIR Trade Report #523
+R524,Liquidity Coverage #524
+R525,VaR Backtest #525
+R526,Counterparty Credit Exposure #526
+R527,Leverage Ratio #527
+R528,FRTB-SA Capital #528
+R529,FRTB-IMA Capital #529
+R530,Basel III LCR #530
+R531,Basel III NSFR #531
+R532,CCAR Submission #532
+R533,Volcker Metrics #533
+R534,MiFID II Transaction Report #534
+R535,EMIR Trade Report #535
+R536,Liquidity Coverage #536
+R537,VaR Backtest #537
+R538,Counterparty Credit Exposure #538
+R539,Leverage Ratio #539
+R540,FRTB-SA Capital #540
+R541,FRTB-IMA Capital #541
+R542,Basel III LCR #542
+R543,Basel III NSFR #543
+R544,CCAR Submission #544
+R545,Volcker Metrics #545
+R546,MiFID II Transaction Report #546
+R547,EMIR Trade Report #547
+R548,Liquidity Coverage #548
+R549,VaR Backtest #549
+R550,Counterparty Credit Exposure #550
+R551,Leverage Ratio #551
+R552,FRTB-SA Capital #552
+R553,FRTB-IMA Capital #553
+R554,Basel III LCR #554
+R555,Basel III NSFR #555
+R556,CCAR Submission #556
+R557,Volcker Metrics #557
+R558,MiFID II Transaction Report #558
+R559,EMIR Trade Report #559
+R560,Liquidity Coverage #560
+R561,VaR Backtest #561
+R562,Counterparty Credit Exposure #562
+R563,Leverage Ratio #563
+R564,FRTB-SA Capital #564
+R565,FRTB-IMA Capital #565
+R566,Basel III LCR #566
+R567,Basel III NSFR #567
+R568,CCAR Submission #568
+R569,Volcker Metrics #569
+R570,MiFID II Transaction Report #570
+R571,EMIR Trade Report #571
+R572,Liquidity Coverage #572
+R573,VaR Backtest #573
+R574,Counterparty Credit Exposure #574
+R575,Leverage Ratio #575
+R576,FRTB-SA Capital #576
+R577,FRTB-IMA Capital #577
+R578,Basel III LCR #578
+R579,Basel III NSFR #579
+R580,CCAR Submission #580
+R581,Volcker Metrics #581
+R582,MiFID II Transaction Report #582
+R583,EMIR Trade Report #583
+R584,Liquidity Coverage #584
+R585,VaR Backtest #585
+R586,Counterparty Credit Exposure #586
+R587,Leverage Ratio #587
+R588,FRTB-SA Capital #588
+R589,FRTB-IMA Capital #589
+R590,Basel III LCR #590
+R591,Basel III NSFR #591
+R592,CCAR Submission #592
+R593,Volcker Metrics #593
+R594,MiFID II Transaction Report #594
+R595,EMIR Trade Report #595
+R596,Liquidity Coverage #596
+R597,VaR Backtest #597
+R598,Counterparty Credit Exposure #598
+R599,Leverage Ratio #599
