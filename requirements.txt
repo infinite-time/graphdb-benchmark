@@ -1,0 +1,9 @@
+# Core: the Neo4j Bolt driver talks to BOTH Neo4j and Neptune.
+neo4j>=5.15
+
+# Only needed if you use the Neptune HTTPS transport (NEPTUNE_ACCESS_MODE=https)
+# or the AWS helper scripts. Safe to install regardless.
+boto3>=1.34
+
+# Nice-to-have progress bars during load (optional; code works without it).
+tqdm>=4.66
